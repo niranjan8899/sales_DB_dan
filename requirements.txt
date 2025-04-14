@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+pytz
+openpyxl  # Needed for Excel file reading
