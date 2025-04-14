@@ -7,3 +7,4 @@ pytz
 openpyxl
 fyers-apiv3  # If you're using Fyers API
 aiohttp       # Dependency for fyers-apiv3
+kaleido  # Add this lin
