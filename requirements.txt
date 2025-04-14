@@ -4,4 +4,6 @@ numpy
 plotly
 statsmodels
 pytz
-openpyxl  # Needed for Excel file reading
+openpyxl
+fyers-apiv3  # If you're using Fyers API
+aiohttp       # Dependency for fyers-apiv3
